@@ -1,0 +1,13 @@
+.contato {
+    background-color: #394B3F;
+    padding: 30px;
+}
+.contato__container {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+.contato__titulo {
+    padding-bottom: 8px;
+}
